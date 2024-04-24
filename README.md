@@ -1,2 +1,2 @@
 # 1337_projects
-projects I've worked on during 1337 school journey
+Projects I've worked on during 1337 school journey

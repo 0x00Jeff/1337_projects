@@ -1,0 +1,3 @@
+[submodule "minishell-1337"]
+	path = minishell-1337
+	url = git@github.com:YeGoRenji/minishell-1337.git
