@@ -7,3 +7,6 @@
 [submodule "inception"]
 	path = inception
 	url = git@github.com:0x00Jeff/inception.git
+[submodule "cub3d"]
+	path = cub3d
+	url = git@github.com:0x00Jeff/cub3d.git
