@@ -1,3 +1,6 @@
 [submodule "minishell-1337"]
 	path = minishell-1337
 	url = git@github.com:YeGoRenji/minishell-1337.git
+[submodule "ft_irc-1337"]
+	path = ft_irc-1337
+	url = git@github.com:YeGoRenji/ft_irc-1337.git
