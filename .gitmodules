@@ -4,3 +4,6 @@
 [submodule "ft_irc-1337"]
 	path = ft_irc-1337
 	url = git@github.com:YeGoRenji/ft_irc-1337.git
+[submodule "inception"]
+	path = inception
+	url = git@github.com:0x00Jeff/inception.git
