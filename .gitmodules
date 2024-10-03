@@ -10,3 +10,6 @@
 [submodule "cub3d"]
 	path = cub3d
 	url = git@github.com:0x00Jeff/cub3d.git
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:0x00Jeff/cpp.git
