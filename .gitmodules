@@ -13,3 +13,6 @@
 [submodule "cpp"]
 	path = cpp
 	url = git@github.com:0x00Jeff/cpp.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:0x00Jeff/get_next_line.git
