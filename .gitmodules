@@ -19,3 +19,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:0x00Jeff/ft_printf.git
+[submodule "boot2root"]
+	path = boot2root
+	url = https://github.com/0x00Jeff/boot2root
