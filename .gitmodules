@@ -22,3 +22,6 @@
 [submodule "boot2root"]
 	path = boot2root
 	url = https://github.com/0x00Jeff/boot2root
+[submodule "Cloud-1"]
+	path = Cloud-1
+	url = https://github.com/0x00Jeff/Cloud-1
